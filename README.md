@@ -46,7 +46,7 @@ The dashboard gives a comprehensive view of:
 
 ## 📂 Files in This Repository
 - `Madhav_Ecommerce_Sales.pbix` → Power BI dashboard file.
-- `madhav_sales_data.xlsx` → Raw data for analysis.
+- `orders.xlsx` & `details.xlsx` → Madhav sales raw data for analysis.
 - `Madhav_Dashboard_Preview.png` → Screenshot of the dashboard.
 
 ---
