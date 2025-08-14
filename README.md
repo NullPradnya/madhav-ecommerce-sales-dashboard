@@ -52,7 +52,7 @@ The dashboard gives a comprehensive view of:
 ---
 
 ## 📷 Dashboard Preview
-![Madhav E-Commerce Sales Dashboard](madhav_ecom_dashboard.png)
+![Madhav E-Commerce Sales Dashboard](Madhav_Dashboard_Preview.png)
 
 
 ---
